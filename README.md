@@ -9,7 +9,7 @@
 1. Complete the prompts listed below in [challenge.py](./challenge.py). To test your output in terminal, run `python3 challenge.py` from within this repository. Comment out the prompts as you complete them to keep your output clean and easy to read.
 1. When complete, submit your homework by making a pull request on this repository.
 
-Unless otherwise stated, assignments are due the next class day at 10 am ET.
+Unless otherwise stated, assignments are due the next class day at 9 am ET.
 
 # Part 1: Most Clocks Are Normal, But Some Are Cuckoo!
 
